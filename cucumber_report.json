@@ -5,7 +5,7 @@
     "line": 1,
     "id": "page",
     "tags": [],
-    "uri": "features\\page.feature.feature",
+    "uri": "features/page.feature.feature",
     "elements": [
       {
         "id": "page;new-page",
@@ -21,11 +21,11 @@
             "line": 3,
             "name": "The user opens the page",
             "match": {
-              "location": "features\\step_definitions\\page.spec.js:4"
+              "location": "features/step_definitions/page.spec.js:4"
             },
             "result": {
               "status": "passed",
-              "duration": 4098000000
+              "duration": 1528000000
             }
           },
           {
@@ -34,7 +34,7 @@
             "line": 4,
             "name": "The page is returned",
             "match": {
-              "location": "features\\step_definitions\\page.spec.js:9"
+              "location": "features/step_definitions/page.spec.js:9"
             },
             "result": {
               "status": "passed"

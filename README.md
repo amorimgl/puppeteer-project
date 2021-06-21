@@ -1,2 +1,4 @@
-# pocPuppeteer
-pocPuppeteer
+### How to run
+
+### npm install
+### yarn run
