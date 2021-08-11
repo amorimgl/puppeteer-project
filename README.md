@@ -1,4 +1,5 @@
 ### How to run
 
-### npm install
-### yarn test
+`npm install`
+
+`yarn test`
